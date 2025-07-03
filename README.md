@@ -9,7 +9,7 @@
 ### Tecnologías que domino:
 
 **Frontend**  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  (Basico)
 HTML · CSS · JavaScript · Bootstrap
 
 **Backend**  
