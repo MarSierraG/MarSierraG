@@ -1,16 +1,15 @@
 # ¡Hola! Soy María Del Mar Sierra Gutiérrez
 
- Técnica Superior en Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR).  
- 
- Apasionada por el desarrollo web y la tecnología, con experiencia en proyectos reales y formación dual.
+Técnica Superior en Desarrollo de Aplicaciones Web (DAW) y Administración de Sistemas Informáticos en Red (ASIR).
+
+Apasionada por el desarrollo web y la tecnología, con experiencia en proyectos reales y formación dual.
 
 ---
 
 ### Tecnologías que domino:
 
 **Frontend**  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  (Basico)
-
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  (Básico)  
 HTML · CSS · JavaScript · Bootstrap
 
 **Backend**  
@@ -34,8 +33,7 @@ Desarrollado con Angular y Spring Boot como proyecto final del ciclo DAW.
 📁 [Frontend GitHub](https://github.com/MarSierraG/swapfy-frontend)  
 📁 [Backend GitHub](https://github.com/MarSierraG/swapfy-backend)
 
-🔗 Mi portafolio web
-
+🔗 [**Mi portafolio web**](https://portfolio-one-snowy-67.vercel.app)  
 Un resumen de mis habilidades y el proyecto Swapfy.
 
 ---
