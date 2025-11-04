@@ -34,6 +34,10 @@ Desarrollado con Angular y Spring Boot como proyecto final del ciclo DAW.
 📁 [Frontend GitHub](https://github.com/MarSierraG/swapfy-frontend)  
 📁 [Backend GitHub](https://github.com/MarSierraG/swapfy-backend)
 
+🔗 Mi portafolio web
+
+Un resumen de mis habilidades y el proyecto Swapfy.
+
 ---
 
 ### Puedes encontrarme en:
