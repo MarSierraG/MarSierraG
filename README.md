@@ -9,7 +9,7 @@ Apasionada por el desarrollo web y la tecnología, con experiencia en proyectos 
 ### Tecnologías que domino:
 
 **Frontend**  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)  (Básico)  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white) 
 HTML · CSS · JavaScript · Bootstrap
 
 **Backend**  
