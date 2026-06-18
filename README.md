@@ -91,13 +91,8 @@ https://github.com/MarSierraG/Portfolio
 
 ## Contacto
 
-**LinkedIn**
-
-https://www.linkedin.com/in/mar%C3%ADa-del-mar-sierra-guti%C3%A9rrez-19a2b928b/
-
-**Portfolio**
-
-https://portfolio-one-snowy-67.vercel.app/
+- [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-del-mar-sierra-guti%C3%A9rrez-19a2b928b/)
+- [Portfolio](https://portfolio-one-snowy-67.vercel.app/)
 
 ---
 
