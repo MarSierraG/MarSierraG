@@ -2,7 +2,7 @@
 
 # María del Mar Sierra
 
-### Full Stack Developer Junior
+### Full Stack Developer
 
 Angular · Spring Boot · Java · PHP
 
