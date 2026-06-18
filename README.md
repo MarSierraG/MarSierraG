@@ -63,20 +63,20 @@ Actualmente sigo ampliando conocimientos en desarrollo web moderno y buscando nu
 
 Plataforma de trueque digital desarrollada con Angular y Spring Boot.
 
-🔗 Demo:
+**Demo**
 https://swapfy-frontend.vercel.app/auth
 
-🔗 Repositorio:
+**Repositorio**
 https://github.com/MarSierraG/Swapfy
 
 ---
 
 ## Portfolio
 
-🌐 Web:
+**Sitio web**
 https://portfolio-one-snowy-67.vercel.app/
 
-📂 Código:
+**Código fuente**
 https://github.com/MarSierraG/Portfolio
 
 ---
