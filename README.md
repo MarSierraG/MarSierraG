@@ -83,9 +83,16 @@ https://github.com/MarSierraG/Portfolio
 
 ## Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarSierraG\&show_icons=true\&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarSierraG\&layout=compact\&theme=github_dark)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MarSierraG&show_icons=true&theme=github_dark"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarSierraG&layout=compact&theme=github_dark"
+    height="165"
+  />
+</p>
 
 ---
 
